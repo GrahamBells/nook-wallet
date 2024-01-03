@@ -1,7 +1,5 @@
 ![woof wallet icon](icons/logo.png)
 
-# Woof Wallet
+# Nook Wallet
 
-A browser extension wallet to send and receive doginals.
-
-[Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/woof-wallet)
+A browser extension wallet to send and receive bellinals.
